@@ -2,7 +2,7 @@
 
 ---
 
-![photo](/rsschool-cv/img/OyOTCu-F288.jpg "me")
+![photo](./img/OyOTCu-F288.jpg "me")
 
 ---
 
